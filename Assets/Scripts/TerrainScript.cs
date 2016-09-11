@@ -5,7 +5,7 @@ public class TerrainScript : MonoBehaviour {
 
 	/* create Terrain, heightmap array and max size*/
 	public Terrain terrain;
-	public int size = 513;
+	public int size = 520;
 	private float[,] heightMap;
 
 
